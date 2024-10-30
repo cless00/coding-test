@@ -13,3 +13,6 @@
 * `Completed` 2차원 배열
     - https://www.acmicpc.net/step/2
     - `baekjoon.a7.*`
+* `Completed` 약수, 배수와 소수
+    - https://www.acmicpc.net/step/10
+    - `baekjoon.a9.*`
