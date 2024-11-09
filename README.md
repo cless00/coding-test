@@ -20,3 +20,4 @@
 ## Hackerrank (https://hackerrank.com)
 
 * `Completed` Flipping matrix
+* `Completed` Palindrome
