@@ -6,18 +6,22 @@
 
 * `Completed` 입출력과 사칙연산
     - https://www.acmicpc.net/step/1
-    - `baekjoon.a1.*`
+    - [a1](src/baekjoon/a1)
 * `Completed` 심화 1
     - https://www.acmicpc.net/step/52
-    - `baekjoon.a6.*`
+    - [a6](src/baekjoon/a6)
 * `Completed` 2차원 배열
     - https://www.acmicpc.net/step/2
-    - `baekjoon.a7.*`
+    - [a7](src/baekjoon/a7)
 * `Completed` 약수, 배수와 소수
     - https://www.acmicpc.net/step/10
-    - `baekjoon.a9.*`
+    - [a9](src/baekjoon/a9)
 
 ## Hackerrank (https://hackerrank.com)
 
 * `Completed` Flipping matrix
+    - [Solution.java](src/hackerrank/flipping/Solution.java)
 * `Completed` Palindrome
+    - [Solution.java](src/hackerrank/palindrome/Solution.java)
+* `Completed` Queue
+    - [Solution.java](src/hackerrank/queue/Solution.java)
