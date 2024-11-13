@@ -1,6 +1,7 @@
 package hackerrank.queue;
 
 import java.util.Scanner;
+import java.util.Stack;
 
 public class Solution {
 
@@ -31,7 +32,8 @@ public class Solution {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         int q = sc.nextInt();
-        CustomQueue queue = new CustomQueue();
+//        CustomQueueWithLinkedList queue = new CustomQueueWithLinkedList();
+        CustomQueueWithDualStack queue = new CustomQueueWithDualStack();
         for (int i = 0; i < q; i++) {
             int op = sc.nextInt();
             if (op == 1) {
@@ -45,7 +47,7 @@ public class Solution {
         sc.close();
     }
 
-    private static class CustomQueue {
+    private static class CustomQueueWithLinkedList {
         private CustomData head = null;
         private CustomData end = null;
 
@@ -73,6 +75,33 @@ public class Solution {
             if (head != null) {
                 System.out.println(head.value);
             }
+        }
+    }
+
+    private static class CustomQueueWithDualStack {
+        private final Stack<Long> inStack = new Stack<>();
+        private final Stack<Long> outStack = new Stack<>();
+
+        private void enqueue(long value) {
+            inStack.push(value);
+        }
+
+        private void dequeue() {
+            if (outStack.isEmpty()) {
+                while (!inStack.isEmpty()) {
+                    outStack.push(inStack.pop());
+                }
+            }
+            outStack.pop();
+        }
+
+        private void printFront() {
+            if (outStack.isEmpty()) {
+                while (!inStack.isEmpty()) {
+                    outStack.push(inStack.pop());
+                }
+            }
+            System.out.println(outStack.peek());
         }
     }
 
