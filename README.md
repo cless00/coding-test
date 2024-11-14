@@ -25,3 +25,5 @@
     - [Solution.java](src/hackerrank/palindrome/Solution.java)
 * Queue
     - [Solution.java](src/hackerrank/queue/Solution.java)
+* Simple editor
+    - [Solution.java](src/hackerrank/editor/Solution.java)
