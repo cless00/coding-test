@@ -62,13 +62,15 @@ public class Solution {
             }
         }
 
-        private void dequeue() {
+        private long dequeue() {
+            long top = head != null ? head.value : 0;
             if (head != null) {
                 head = head.next;
                 if (head == null) {
                     end = null;
                 }
             }
+            return top;
         }
 
         private void printFront() {
@@ -86,13 +88,13 @@ public class Solution {
             inStack.push(value);
         }
 
-        private void dequeue() {
+        private long dequeue() {
             if (outStack.isEmpty()) {
                 while (!inStack.isEmpty()) {
                     outStack.push(inStack.pop());
                 }
             }
-            outStack.pop();
+            return outStack.pop();
         }
 
         private void printFront() {
