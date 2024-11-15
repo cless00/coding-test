@@ -27,3 +27,5 @@
     - [Solution.java](src/hackerrank/queue/Solution.java)
 * Simple editor
     - [Solution.java](src/hackerrank/editor/Solution.java)
+* 🤕Lego blocks
+    - [Solution.java](src/hackerrank/lego/Solution.java)
