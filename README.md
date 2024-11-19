@@ -31,3 +31,5 @@
     - [Solution.java](src/hackerrank/lego/Solution.java)
 * Shortest reach
     - [Solution.java](src/hackerrank/bfs/Solution.java)
+* Huffman decoding
+    - [Solution.java](src/hackerrank/huffman/Solution.java)
