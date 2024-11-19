@@ -29,3 +29,5 @@
     - [Solution.java](src/hackerrank/editor/Solution.java)
 * 🤕Lego blocks
     - [Solution.java](src/hackerrank/lego/Solution.java)
+* Shortest reach
+    - [Solution.java](src/hackerrank/bfs/Solution.java)
