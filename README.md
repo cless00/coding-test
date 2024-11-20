@@ -33,3 +33,5 @@
     - [Solution.java](src/hackerrank/bfs/Solution.java)
 * Huffman decoding
     - [Solution.java](src/hackerrank/huffman/Solution.java)
+* No prefix
+    - [Solution.java](src/hackerrank/noprefix/Solution.java)
