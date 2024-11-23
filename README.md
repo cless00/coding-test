@@ -35,3 +35,5 @@
     - [Solution.java](src/hackerrank/huffman/Solution.java)
 * No prefix
     - [Solution.java](src/hackerrank/noprefix/Solution.java)
+* Bomber man
+    - [Solution.java](src/hackerrank/bomberman/Solution.java)
