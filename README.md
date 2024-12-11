@@ -13,6 +13,9 @@
 * 2차원 배열
     - https://www.acmicpc.net/step/2
     - [a7](src/baekjoon/a7)
+* `In progress` 일반 수학 1
+    - https://www.acmicpc.net/step/8
+    - [a8](src/baekjoon/a8)
 * 약수, 배수와 소수
     - https://www.acmicpc.net/step/10
     - [a9](src/baekjoon/a9)
