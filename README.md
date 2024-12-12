@@ -19,6 +19,9 @@
 * 약수, 배수와 소수
     - https://www.acmicpc.net/step/10
     - [a9](src/baekjoon/a9)
+* 기하: 직사각형과 삼각형
+    - https://www.acmicpc.net/step/50
+    - [a10](src/baekjoon/a10)
 
 ## Hackerrank (https://hackerrank.com)
 
