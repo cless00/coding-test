@@ -55,3 +55,11 @@
 * Roman to Integer
     - https://leetcode.com/problems/roman-to-integer/description/
     - [Solution.java](src/leetcode/roman/to/integer/Solution.java)
+
+* Valid Sudoku
+    - https://leetcode.com/problems/valid-sudoku/description/
+    - [Solution.java](src/leetcode/sudoku/Solution.java)
+
+* Two Sum II - Input Array Is Sorted
+    - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+    - [Solution.java](src/leetcode/two/sum/Solution.java)
