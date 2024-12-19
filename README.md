@@ -63,3 +63,11 @@
 * Two Sum II - Input Array Is Sorted
     - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
     - [Solution.java](src/leetcode/two/sum/Solution.java)
+
+* Remove Nth Node From End of List
+    - https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+    - [Solution.java](src/leetcode/remove/from/end/Solution.java)
+
+* Search a 2D Matrix
+    - https://leetcode.com/problems/search-a-2d-matrix/description/
+    - [Solution.java](src/leetcode/binary/search/Solution.java)
