@@ -71,3 +71,7 @@
 * Search a 2D Matrix
     - https://leetcode.com/problems/search-a-2d-matrix/description/
     - [Solution.java](src/leetcode/binary/search/Solution.java)
+
+* Max Consecutive Ones III
+    - https://leetcode.com/problems/max-consecutive-ones-iii/description/
+    - [Solution.java](src/leetcode/max/consecutive/one/Solution.java)
