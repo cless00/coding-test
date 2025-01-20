@@ -79,3 +79,7 @@
 * Subtree of Another Tree
     - https://leetcode.com/problems/subtree-of-another-tree/
     - [Solution.java](src/leetcode/tree/subtree/Solution.java)
+
+* Binary Tree Level Order Traversal
+    - https://leetcode.com/problems/binary-tree-level-order-traversal/
+    - [Solution.java](src/leetcode/binary/traversal/Solution.java)
