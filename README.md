@@ -34,6 +34,9 @@
 * 수 정렬하기 3
     - https://www.acmicpc.net/problem/10989
     - [B10989.java](src/baekjoon/bronze1/B10989.java)
+* 이항 계수
+    - https://www.acmicpc.net/problem/11050
+    - [B11050.java](src/baekjoon/bronze1/B11050.java)
 
 ## Hackerrank (https://hackerrank.com)
 
