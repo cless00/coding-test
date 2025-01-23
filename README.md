@@ -23,10 +23,14 @@
     - https://www.acmicpc.net/step/50
     - [a10](src/baekjoon/a10)
 
-### 기타
+### 브론즈
 
 * 분해합
-    - [B2231.java](src/baekjoon/b2/B2231.java)
+    - https://www.acmicpc.net/problem/2231
+    - [B2231.java](src/baekjoon/bronze2/B2231.java)[B2231.java](src/baekjoon/bronze2/B2231.java)
+* 해싱
+    - https://www.acmicpc.net/problem/15829
+    - [B15829.java](src/baekjoon/bronze2/B15829.java)
 
 ## Hackerrank (https://hackerrank.com)
 
