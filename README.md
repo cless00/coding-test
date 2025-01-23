@@ -31,6 +31,9 @@
 * 해싱
     - https://www.acmicpc.net/problem/15829
     - [B15829.java](src/baekjoon/bronze2/B15829.java)
+* 수 정렬하기 3
+    - https://www.acmicpc.net/problem/10989
+    - [B10989.java](src/baekjoon/bronze1/B10989.java)
 
 ## Hackerrank (https://hackerrank.com)
 
