@@ -23,6 +23,11 @@
     - https://www.acmicpc.net/step/50
     - [a10](src/baekjoon/a10)
 
+### 기타
+
+* 분해합
+    - [B2231.java](src/baekjoon/b2/B2231.java)
+
 ## Hackerrank (https://hackerrank.com)
 
 * Flipping matrix
