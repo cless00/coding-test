@@ -38,6 +38,12 @@
     - https://www.acmicpc.net/problem/11050
     - [B11050.java](src/baekjoon/bronze1/B11050.java)
 
+### 실버
+
+* 단어정렬
+    - https://www.acmicpc.net/problem/1181
+    - [B1181.java](src/baekjoon/silver5/B1181.java)
+
 ## Hackerrank (https://hackerrank.com)
 
 * Flipping matrix
