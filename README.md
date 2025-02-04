@@ -98,3 +98,8 @@
 * Binary Tree Level Order Traversal
     - https://leetcode.com/problems/binary-tree-level-order-traversal/
     - [Solution.java](src/leetcode/binary/traversal/Solution.java)
+
+## 기타
+
+* 제곱근으로 약수 구하기
+    - [Solution.java](src/self/divisor/Solution.java)
