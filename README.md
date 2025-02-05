@@ -43,6 +43,9 @@
 * 단어정렬
     - https://www.acmicpc.net/problem/1181
     - [B1181.java](src/baekjoon/silver5/B1181.java)
+* 숫자 정렬
+    - https://www.acmicpc.net/problem/2751
+    - [B2751.java](src/baekjoon/silver5/B2751.java)
 
 ## Hackerrank (https://hackerrank.com)
 
