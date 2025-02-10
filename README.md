@@ -49,6 +49,9 @@
 * 나이순 정렬
     - https://www.acmicpc.net/problem/10814
     - [B10814.java](src/baekjoon/silver5/B10814.java)
+* 좌표 정렬하기
+    - https://www.acmicpc.net/problem/11650
+    - [B11650.java](src/baekjoon/silver5/B11650.java)
 
 ## Hackerrank (https://hackerrank.com)
 
