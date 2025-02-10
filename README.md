@@ -52,6 +52,9 @@
 * 좌표 정렬하기
     - https://www.acmicpc.net/problem/11650
     - [B11650.java](src/baekjoon/silver5/B11650.java)
+* 체스판 다시 칠하기
+    - https://www.acmicpc.net/problem/1018
+    - [B1018.java](src/baekjoon/silver5/B1018.java)
 
 ## Hackerrank (https://hackerrank.com)
 
