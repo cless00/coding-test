@@ -55,6 +55,9 @@
 * 체스판 다시 칠하기
     - https://www.acmicpc.net/problem/1018
     - [B1018.java](src/baekjoon/silver5/B1018.java)
+* 수 찾기
+    - https://www.acmicpc.net/problem/1920
+    - [B1920.java](src/baekjoon/silver5/B1920.java)
 
 ## Hackerrank (https://hackerrank.com)
 
