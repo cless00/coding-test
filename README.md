@@ -58,6 +58,9 @@
 * 수 찾기
     - https://www.acmicpc.net/problem/1920
     - [B1920.java](src/baekjoon/silver5/B1920.java)
+* 숫자 카드2
+    - https://www.acmicpc.net/problem/10816
+    - [B10816.java](src/baekjoon/silver4/B10816.java)
 
 ## Hackerrank (https://hackerrank.com)
 
