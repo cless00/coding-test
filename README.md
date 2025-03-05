@@ -61,6 +61,9 @@
 * 숫자 카드2
     - https://www.acmicpc.net/problem/10816
     - [B10816.java](src/baekjoon/silver4/B10816.java)
+* 스택
+    - https://www.acmicpc.net/problem/10828
+    - [B10828.java](src/baekjoon/silver4/B10828.java)
 
 ## Hackerrank (https://hackerrank.com)
 
