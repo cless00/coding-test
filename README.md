@@ -67,6 +67,9 @@
 * 큐
     - https://www.acmicpc.net/problem/10845
     - [B10845.java](src/baekjoon/silver4/B10845.java)
+* 요세푸스 문제 0
+    - https://www.acmicpc.net/problem/11866
+    - [B11866.java](src/baekjoon/silver4/B11866.java)
 
 ## Hackerrank (https://hackerrank.com)
 
