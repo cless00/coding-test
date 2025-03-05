@@ -64,6 +64,9 @@
 * 스택
     - https://www.acmicpc.net/problem/10828
     - [B10828.java](src/baekjoon/silver4/B10828.java)
+* 큐
+    - https://www.acmicpc.net/problem/10845
+    - [B10845.java](src/baekjoon/silver4/B10845.java)
 
 ## Hackerrank (https://hackerrank.com)
 
