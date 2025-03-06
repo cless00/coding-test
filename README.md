@@ -76,6 +76,9 @@
 * 설탕배달
     - https://www.acmicpc.net/problem/2839
     - [B2839.java](src/baekjoon/silver4/B2839.java)
+* **팩토리얼 0의 개수**
+    - https://www.acmicpc.net/problem/1676
+    - [B1676.java](src/baekjoon/silver5/B1676.java)
 
 ## Hackerrank (https://hackerrank.com)
 
