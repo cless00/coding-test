@@ -11,7 +11,7 @@ public class B2839 {
 
         for (int bag5 = max5kgBags; bag5 >= 0; bag5--) {
             for (int bag3 = 0; bag3 <= max3kgBags; bag3++) {
-                if ((bag5 * 5.0 + bag3 * 3.0) == n) {
+                if (bag5 * 5 + bag3 * 3 == n) {
                     System.out.println(bag5 + bag3);
                     return;
                 }
