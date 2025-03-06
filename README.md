@@ -73,6 +73,9 @@
 * 영화감독 숌
     - https://www.acmicpc.net/problem/1436
     - [B1436.java](src/baekjoon/silver5/B1436.java)
+* 설탕배달
+    - https://www.acmicpc.net/problem/2839
+    -
 
 ## Hackerrank (https://hackerrank.com)
 
