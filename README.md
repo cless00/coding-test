@@ -75,7 +75,7 @@
     - [B1436.java](src/baekjoon/silver5/B1436.java)
 * 설탕배달
     - https://www.acmicpc.net/problem/2839
-    -
+    - [B2839.java](src/baekjoon/silver4/B2839.java)
 
 ## Hackerrank (https://hackerrank.com)
 
