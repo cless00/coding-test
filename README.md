@@ -54,10 +54,10 @@
     - [B11650.java](src/baekjoon/silver5/B11650.java)
 * 체스판 다시 칠하기
     - https://www.acmicpc.net/problem/1018
-    - [B1018.java](src/baekjoon/silver5/B1018.java)
+    - [B1018.java](src/baekjoon/silver4/B1018.java)
 * 수 찾기
     - https://www.acmicpc.net/problem/1920
-    - [B1920.java](src/baekjoon/silver5/B1920.java)
+    - [B1920.java](src/baekjoon/silver4/B1920.java)
 * 숫자 카드2
     - https://www.acmicpc.net/problem/10816
     - [B10816.java](src/baekjoon/silver4/B10816.java)
@@ -103,31 +103,24 @@
 * Roman to Integer
     - https://leetcode.com/problems/roman-to-integer/description/
     - [Solution.java](src/leetcode/roman/to/integer/Solution.java)
-
 * Valid Sudoku
     - https://leetcode.com/problems/valid-sudoku/description/
     - [Solution.java](src/leetcode/sudoku/Solution.java)
-
 * Two Sum II - Input Array Is Sorted
     - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
     - [Solution.java](src/leetcode/two/sum/Solution.java)
-
 * Remove Nth Node From End of List
     - https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
     - [Solution.java](src/leetcode/remove/from/end/Solution.java)
-
 * Search a 2D Matrix
     - https://leetcode.com/problems/search-a-2d-matrix/description/
     - [Solution.java](src/leetcode/binary/search/Solution.java)
-
 * Max Consecutive Ones III
     - https://leetcode.com/problems/max-consecutive-ones-iii/description/
     - [Solution.java](src/leetcode/max/consecutive/one/Solution.java)
-
 * Subtree of Another Tree
     - https://leetcode.com/problems/subtree-of-another-tree/
     - [Solution.java](src/leetcode/tree/subtree/Solution.java)
-
 * Binary Tree Level Order Traversal
     - https://leetcode.com/problems/binary-tree-level-order-traversal/
     - [Solution.java](src/leetcode/binary/traversal/Solution.java)
