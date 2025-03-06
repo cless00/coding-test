@@ -70,6 +70,9 @@
 * 요세푸스 문제 0
     - https://www.acmicpc.net/problem/11866
     - [B11866.java](src/baekjoon/silver4/B11866.java)
+* 영화감독 숌
+    - https://www.acmicpc.net/problem/1436
+    - [B1436.java](src/baekjoon/silver5/B1436.java)
 
 ## Hackerrank (https://hackerrank.com)
 
