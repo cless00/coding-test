@@ -27,7 +27,7 @@
 
 * 분해합
     - https://www.acmicpc.net/problem/2231
-    - [B2231.java](src/baekjoon/bronze2/B2231.java)[B2231.java](src/baekjoon/bronze2/B2231.java)
+    - [B2231.java](src/baekjoon/bronze2/B2231.java)
 * 해싱
     - https://www.acmicpc.net/problem/15829
     - [B15829.java](src/baekjoon/bronze2/B15829.java)
